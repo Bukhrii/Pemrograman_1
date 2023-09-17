@@ -1,7 +1,6 @@
 #include <stdio.h>
      
-int main()
-{
+int main() {
     char tagar[] = "#                            #";
     int i;
     char namaLengkap[] = "Muhammad Bukhari Fitri";
