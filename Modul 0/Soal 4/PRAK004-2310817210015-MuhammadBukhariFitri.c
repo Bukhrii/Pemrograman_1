@@ -9,7 +9,6 @@ int main() {
     int jmlBaris = 6;
     for(i = barisAwal; i <= jmlBaris; ++i) {
         
-        
         if ( i == jmlBaris/2 ) {
             printf("#   %s   #", namaLengkap);
         }
