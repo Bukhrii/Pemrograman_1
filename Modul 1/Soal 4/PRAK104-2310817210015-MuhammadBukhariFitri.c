@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 int main() {
-    int sepatuA = 40000;
-    int sepatuB =  35000;
+    int sepatuA = 400000;
+    int sepatuB =  350000;
     int diskonA = sepatuA - (sepatuA * 13 / 100);
     int diskonB = sepatuB - (sepatuB * 21 / 100);
 
