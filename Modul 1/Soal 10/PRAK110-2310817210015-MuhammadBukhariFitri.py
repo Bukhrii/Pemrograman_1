@@ -7,7 +7,7 @@ luas = (alas * tinggi) // 2;
 
 print("Diketahui :");
 print(f"Alas = {alas} cm");
-print(f"Tinggi = {tinggi} cm");
+print(f"Tinggi = {tinggi} cm\n");
 print("Jawab :");
 print(f"Sisi A = {tinggi} cm");
 print(f"Sisi B = {sisiMiring} cm");
