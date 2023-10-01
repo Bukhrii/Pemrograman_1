@@ -1,5 +1,5 @@
-sepatuA = 400000;
-sepatuB =  350000;
+sepatuA = 40000;
+sepatuB =  35000;
 diskonA = int(sepatuA - (sepatuA * 13 / 100));
 diskonB = int(sepatuB - (sepatuB * 21 / 100));
 
