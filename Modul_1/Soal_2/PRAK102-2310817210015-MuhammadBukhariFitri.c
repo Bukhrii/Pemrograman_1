@@ -2,7 +2,7 @@
 
 int main() {
     float a = 4;
-    float b =  8;
+    float b = 8;
     float c = 3;
     float jumlah = a * b / c;
 

@@ -2,7 +2,7 @@
 
 int main() {
     int x = 5;
-    int y =  7;
+    int y = 7;
     int z = 9;
     int jumlah = x + y + z;
 
