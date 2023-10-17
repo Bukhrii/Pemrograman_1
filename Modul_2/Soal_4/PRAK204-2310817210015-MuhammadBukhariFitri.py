@@ -14,6 +14,6 @@ volume = phi * jariJari * jariJari * tinggi
 luas = 2 * phi * jariJari * (jariJari + tinggi)
 keliling = 2 * phi * jariJari
 
-print("Volume = %.2f" % (volume))
-print("Luas = %.2f" % (luas))
-print("Keliling = %.2f" % (keliling))
+print(f"Volume = {volume:.2f}")
+print(f"Luas = {luas:.2f}")
+print(f"Keliling = {keliling:.2f}")

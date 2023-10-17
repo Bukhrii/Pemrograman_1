@@ -11,4 +11,4 @@ elif len(userInput) == 2:
     x, y = map(float, input().split())
 
 hasil = (a-b) * i / j - (x + y)
-print("%.3f" % (hasil))
+print(f"{hasil:.3f}")
