@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(void){
-    char nama[TMP_MAX], nim[TMP_MAX], kelasParalel[TMP_MAX], ttl[TMP_MAX], alamat[TMP_MAX], hobby[TMP_MAX], noHp[TMP_MAX];
+    char nama[100], nim[100], kelasParalel[100], ttl[100], alamat[100], hobby[100], noHp[100];
 
     printf("Nama\t\t\t: ");
     fgets(nama, sizeof(nama), stdin);
