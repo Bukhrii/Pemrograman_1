@@ -1,5 +1,3 @@
-import numpy as np
-
 n1, n2 = map(int, input().split())
 matriks1 = []
 matriks2 = []
